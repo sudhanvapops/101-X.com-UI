@@ -566,12 +566,20 @@ video {
   position: relative;
 }
 
+.sticky {
+  position: sticky;
+}
+
 .inset-0 {
   inset: 0px;
 }
 
 .-bottom-2 {
   bottom: -0.5rem;
+}
+
+.-top-10 {
+  top: -2.5rem;
 }
 
 .left-0 {
